@@ -2,8 +2,8 @@
 An interesting title of my interesting paper here
 
 # Author
-Leah Ward
-Jasper
+Leah Ward, University of Manchester
+Jasper, Cat 
 
 # Introduction
 Lazy introduction for the interesting paper 
