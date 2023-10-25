@@ -1,8 +1,9 @@
 # Title
-Name of my interesting paper here
+Title of my interesting paper here
 
 # Author
 Leah Ward
+Jasper
 
 # Introduction
 Lazy introduction for the interesting paper 
