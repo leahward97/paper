@@ -20,3 +20,5 @@ We simulate different introductions to see how to structure effectively.
 # REsults
 Result is good paper
 
+# Figures
+Figures go in their own section
