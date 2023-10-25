@@ -14,6 +14,9 @@ Simba et al., (2018) wrote many studies on  this area, though none are useful he
 
 A large uncertainty in knowing what a good introduction is
 
+# Methods
+We will write a paper
+
 # Simulations
 We simulate different introductions to see how to structure effectively.
 
@@ -22,3 +25,6 @@ Result is good paper
 
 # Figures
 Figures go in their own section
+
+# Conclusions 
+Well done us! 
